@@ -2,7 +2,10 @@
 
 This repository contains analytics report for an interactive Power BI analytics project that provides insights into hospital operations, patient demographics, disease distribution, and treatment patterns. The dashboard enables analysis of patient admissions, condition severity, and healthcare utilization through KPIs, trends, and comparative visuals to support data-driven hospital management.
 
-## Executive Overview
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiMDcyZTU5MTEtYjg2Zi00MWVmLThhMGQtMjZiZGUzZTY1ZDc3IiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with dashboard.
+
+# Exploratory Analysis
+## Executive Overview - Page 1
 ![alt text](<Visuals/Executive Overview.png>)
 
 
@@ -49,7 +52,7 @@ Admissions are stable with balanced demographics, rising health demand as age-gr
 - Mental health (Anxiety, Depression) and chronic care require sustained focus.
 - December anomaly should be reviewed.
 
-## Patient Overview
+## Patient Overview - Page 2
 ![alt text](<Visuals/Patient Overview.png>)
 
 ### Overall Insight
@@ -112,6 +115,6 @@ Treatment types evenly distributed:
 - Mental health conditions remain a major demand driver
 - Non-invasive treatments dominate overall care
 
-## Hospital Overview
+## Hospital Overview - Page 3
 
 ### Overall Insight
