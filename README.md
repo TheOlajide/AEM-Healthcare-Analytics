@@ -2,6 +2,8 @@
 This repository contains analytics report for a fictional Healthcare Centre
 
 ## Executive Overview
+![alt text](<Visuals/Executive Overview.png>)
+
 
 ### Overall Insight
 
@@ -47,6 +49,7 @@ Admissions are stable with balanced demographics, rising health demand as age-gr
 - December anomaly should be reviewed.
 
 ## Patient Overview
+![alt text](<Visuals/Patient Overview.png>)
 
 ### Overall Insight
 
